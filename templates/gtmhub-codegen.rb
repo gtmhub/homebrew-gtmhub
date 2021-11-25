@@ -1,4 +1,4 @@
-class GtmhubCli < Formula
+class GtmhubCodegen < Formula
     desc "Gtmhub extensibility code generation tool"
     homepage "https://gtmhub.com"
     version "{{ .Version }}"
